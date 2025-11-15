@@ -1,7 +1,7 @@
 # cloud-migration-readiness-checker
-Cloud Migration Checker
 
 # Cloud Migration Readiness Analyzer
+- You can try the deployed version of the tool at https://sstankala-cloud-migration-readiness-checker.streamlit.app/
 
 A lightweight CLI tool that helps assess **cloud migration readiness** using ideas from the **AWS Cloud Adoption Framework (CAF)** and the **AWS Well-Architected Framework**.
 
